@@ -1,0 +1,37 @@
+{
+  "name": "bootable-component",
+  "version": "0.0.0",
+  "description": "Express component loader phase for Bootable.",
+  "homepage": "https://github.com/copress/bootable-component",
+  "author": {
+    "name": "Tao Yuan",
+    "email": "towyuan@outlook.com"
+  },
+  "repository": "copress/bootable-component",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "keywords": [
+    "bootable-component",
+    ""
+  ],
+  "dependencies": {
+    "configup": "taoyuan/configup",
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {
+    "bootable": "^0.2.4",
+    "chai": "^3.0.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-cli": "^1.12.0",
+    "jshint-stylish": "^1.0.1",
+    "load-grunt-tasks": "^3.1.0",
+    "mocha": "^2.2.5",
+    "time-grunt": "^1.1.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
