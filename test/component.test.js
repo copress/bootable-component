@@ -13,7 +13,7 @@ describe('bootable-component', function () {
       if (err) { throw err; }
     }, owner);
 
-    t.equal(app.dummyComponentOptions.option, 'value');
+    t.equal(app.dummyComponentOptions.option, 'hello');
 
   });
 });
