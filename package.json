@@ -1,6 +1,6 @@
 {
   "name": "bootable-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Express component loader phase for Bootable.",
   "homepage": "https://github.com/copress/bootable-component",
   "author": {
