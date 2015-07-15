@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "configup": "taoyuan/configup",
-    "debug": "^2.2.0"
+    "debug": "^2.2.0",
+    "middist": "^0.1.1"
   },
   "devDependencies": {
     "bootable": "^0.2.4",

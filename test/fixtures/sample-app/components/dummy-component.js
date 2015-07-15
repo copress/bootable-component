@@ -1,3 +1,4 @@
-module.exports = function (app, options) {
+module.exports = function (app, options, next) {
   app.dummyComponentOptions = options;
+  next();
 };
