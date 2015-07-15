@@ -1,5 +1,5 @@
 module.exports = {
   "./components/dummy-component": {
-    "option": "hello"
+    option: "hello"
   }
 };
