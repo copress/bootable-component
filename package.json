@@ -1,17 +1,17 @@
 {
-  "name": "bootable-component",
+  "name": "bootable-components",
   "version": "0.1.6",
-  "description": "Express component loader phase for Bootable.",
-  "homepage": "https://github.com/copress/bootable-component",
+  "description": "Express components loader phase for Bootable.",
+  "homepage": "https://github.com/copress/bootable-components",
   "author": {
     "name": "Tao Yuan",
     "email": "towyuan@outlook.com"
   },
-  "repository": "copress/bootable-component",
+  "repository": "copress/bootable-components",
   "license": "MIT",
   "main": "./lib/index.js",
   "keywords": [
-    "bootable-component",
+    "bootable-components",
     ""
   ],
   "dependencies": {
